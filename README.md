@@ -20,6 +20,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 
 [website]: https://anmolsethi01.blogspot.com/
-[twitter]: https://twitter.com/AnmolSe49700342
+[twitter]: https://twitter.com/AnmolSethi01
 [instagram]: https://instagram.com/anmolsethi.01
 [facebook]: https://facebook.com/Anmol.Sethi.01
