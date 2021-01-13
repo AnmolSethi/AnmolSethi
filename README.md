@@ -5,9 +5,9 @@
 ## I'm a Student, and Developer!
 
 - 🔭 I’m currently working on a Python Project!
-- 🌱 I’m currently learning Dart & Python!
+- 🌱 I’m currently learning NodeJS & React Native!
 - 👯 I’m looking to collaborate with developers
-- 🥅 2020 Goals: Contribute more to Open Source projects & Learn about new technologies
+- 🥅 2021 Goals: Contribute more to Open Source projects & Learn about new technologies
 - ⚡ Fun fact: I love to listen to music
 
 ---
