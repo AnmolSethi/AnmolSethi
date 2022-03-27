@@ -2,10 +2,10 @@
 
 ---
 
-## I'm a Student, and Developer!
+## Build things together!
 
 - 🔭 I’m currently working on a NextJS Project!
-- 🌱 I’m currently learning NodeJS & NextJS!
+- 🌱 I’m currently learning Blockchain!
 - 👯 I’m looking to collaborate with developers
 - 🥅 2022 Goals: Contribute more to Open Source projects & Learn about new technologies
 - ⚡ Fun fact: I love to listen to music
