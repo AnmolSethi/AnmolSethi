@@ -13,7 +13,7 @@ Building high-quality cross-platform mobile applications that scale.
   <a href="https://www.linkedin.com/in/anmol-sethi-01/">
     <img src="https://img.shields.io/badge/LinkedIn-Anmol%20Sethi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@anmolsethi.dev">
+  <a href="mailto:info@anmolsethi.dev">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -95,9 +95,9 @@ I specialize in transforming ideas into polished products—from UI implementati
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnmolSethi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSethi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +107,7 @@ I specialize in transforming ideas into polished products—from UI implementati
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolSethi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
