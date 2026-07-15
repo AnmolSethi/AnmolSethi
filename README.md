@@ -91,14 +91,65 @@ I specialize in transforming ideas into polished products—from UI implementati
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnmolSethi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnmolSethi&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnmolSethi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolSethi&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSethi&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnmolSethi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolSethi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnmolSethi/AnmolSethi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# ⚡ Profile Summary
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolSethi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolSethi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolSethi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolSethi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnmolSethi&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnmolSethi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
