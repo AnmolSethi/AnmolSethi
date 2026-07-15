@@ -1,25 +1,132 @@
-### Hi there, I'm Anmol Sethi 👋
+<div align="center">
+
+# Hi, I'm Anmol Sethi 👋
+
+### Flutter Developer • Mobile App Architect • UI Enthusiast
+
+Building high-quality cross-platform mobile applications that scale.
+
+<p>
+  <a href="https://anmolsethi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-anmolsethi.dev-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/anmol-sethi-01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anmol%20Sethi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hello@anmolsethi.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## Let's Build Your Next Big Thing!
+# 🚀 About Me
 
-- 🔭 I’m currently working on client projects across mobile app development and web solutions.
-- 🌱 I’m currently learning advanced techniques in Flutter and Dart to enhance app performance!
-- 👯 I’m open to collaborations with other developers and businesses looking to innovate.
-- 🥅 2025 Goals: Scale up my mobile app development and contribute to industry-leading open-source projects.
-- ⚡ Fun fact: I love experimenting with new tech and listening to music to fuel my creativity.
+I'm a **Flutter Developer** focused on building beautiful, scalable and production-ready mobile applications.
+
+I specialize in transforming ideas into polished products—from UI implementation to backend integration and store deployment.
+
+### What I do
+
+- 📱 Cross-platform Flutter applications
+- 🎨 Pixel-perfect UI implementation
+- 🔥 Firebase Integration
+- 💳 Payment Gateway Integration
+- 🌍 REST APIs & Backend Integration
+- 📦 App Store & Google Play Deployment
+- ⚡ Performance Optimization
+- 🌐 Localization & Multi-language Apps
 
 ---
 
-### Connect with me:
+# 🛠 Tech Stack
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
-[<img align="left" alt="Anmol Sethi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Anmol Sethi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]  
-[<img align="left" alt="Anmol Sethi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]  
+### Mobile
 
-[website]: https://anmolsethi.dev  
-[linkedin]: https://www.linkedin.com/in/anmol-sethi-01/  
-[instagram]: https://instagram.com/anmolsethi.01  
-[facebook]: https://facebook.com/Anmol.Sethi.01
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,figma,postman" />
+</p>
+
+---
+
+# 💼 Services
+
+✔ Flutter App Development
+
+✔ Mobile UI Development
+
+✔ Firebase Integration
+
+✔ API Integration
+
+✔ Payment Gateway Integration
+
+✔ Bug Fixing
+
+✔ App Performance Optimization
+
+✔ App Publishing
+
+✔ Existing App Maintenance
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Let's Connect
+
+<p align="left">
+<a href="https://anmolsethi.dev"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+<a href="https://www.linkedin.com/in/anmol-sethi-01/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+<a href="https://instagram.com/anmolsethi.01"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Great apps are built with clean architecture, thoughtful design, and attention to detail."*
+
+</div>
