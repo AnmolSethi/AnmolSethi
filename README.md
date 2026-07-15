@@ -95,7 +95,6 @@ I specialize in transforming ideas into polished products—from UI implementati
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnmolSethi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnmolSethi&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
