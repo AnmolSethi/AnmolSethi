@@ -104,72 +104,12 @@ I specialize in transforming ideas into polished products—from UI implementati
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnmolSethi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolSethi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolSethi/AnmolSethi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-# ⚡ Profile Summary
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolSethi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnmolSethi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnmolSethi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnmolSethi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnmolSethi&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnmolSethi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolSethi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌍 Let's Connect
 
 <p align="left">
 <a href="https://anmolsethi.dev"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
 <a href="https://www.linkedin.com/in/anmol-sethi-01/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-<a href="https://instagram.com/anmolsethi.01"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+<a href="https://instagram.com/anmolsethi.dev"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
 </p>
 
 ---
